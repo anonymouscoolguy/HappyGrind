@@ -25,13 +25,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/anonymouscoolguy/HappyGrind/blob/master/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/anonymouscoolguy/HappyGrind/blob/master/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -65,7 +65,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/anonymouscoolguy/HappyGrind",
             label: "GitHub",
             position: "right",
           },
@@ -146,7 +146,7 @@ const config = {
       announcementBar: {
         id: "support_us",
         content:
-          "<b>🎉 If you believe in this project consider <a href='https://www.google.com/'>contributing</a> with your awesome knowledge. 💻</b>",
+          "<b>🎉 If you believe in this project consider <a href='https://github.com/anonymouscoolguy/HappyGrind'>contributing</a> with your awesome knowledge. 💻</b>",
         backgroundColor: "#ffb703",
         textColor: "#ffffff",
         isCloseable: true,
