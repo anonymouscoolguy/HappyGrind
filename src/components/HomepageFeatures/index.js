@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "Guides",
-    Svg: require("@site/static/img/guides_illustration.svg").default,
+    Svg: require("@site/static/img/guides_Illustration.svg").default,
     description: (
       <>
         We seek to develop simple to understand and interesting study guides
