@@ -1,41 +1,68 @@
-# Website
+<div id="top"></div>
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://happygrind.org/">
+    <img src="static/img/logo.svg" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">HappyGrind</h3>
+
+  <p align="center">
+    We make boring stuff cool! - IB Computer Science Syllabus
+    <br />
+    <a href="https://happygrind.org/"><strong>Explore the project »</strong></a>
+    <br />
+    <br />
+  </p>
+</div>
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+In order to have this project up and running on your local machine follow the next simple steps.
+
+### Prerequisites
+
+This project requires the `npm` package manager therefore `Node.js` is a prerequisite.
+
+If you don't happen to have `Node.js` you can install it by accessing its <a href="https://nodejs.org/en/">website</a> and from there choosing a version (LTS is the recommended version).
 
 ### Installation
 
-```
-$ yarn
-```
+Kindly follow the below straightforward steps to get your local server up and running in an instant:
 
-### Local Development
+1. Clone the repo
+   ```sh
+   git clone https://github.com/anonymouscoolguy/HappyGrind.git
+   ```
+2. Run up the server
+   ```sh
+   npm run start
+   ```
 
-```
-$ yarn start
-```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+<!-- CONTRIBUTING -->
+## Contributing
 
-### Build
+Stunning contributers like you, are what make the open-source community such an awesome place to learn, inspire and create! Any contributions are **greatly appreciated**!
 
-```
-$ yarn build
-```
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 
-### Deployment
+This project would be significantly harder to develop without the below awesome tools:
 
-Using SSH:
+* [Docusaurus](https://docusaurus.io/)
+* [Figma](https://www.figma.com/)
+* [Open Broadcaster Software](https://obsproject.com/)
+* [DaVinci Resolve](https://www.blackmagicdesign.com/uk/products/davinciresolve/)
+* [PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
