@@ -3,6 +3,8 @@ sidebar_position: 1
 title: User focus
 ---
 
+import styles from "../../../src/css/custom.css";
+
 ## Importance of user documentation
 
 ### What is user documentation?
@@ -138,6 +140,14 @@ This is the type of training where the students are sitting in a classroom liste
 
 </p>
 </details>
+
+## Explanation video and PowerPoint presentation
+
+<div className="iframe-container margin-bottom--md">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/I6sFzNovKic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<a href="https://www.google.com/"><button className="button button--secondary button--md">PowerPoint Presentation 👨🏻‍🏫</button></a>
 
 ## Resources
 
