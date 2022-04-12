@@ -115,6 +115,12 @@ The technical details on P2P networks are far more complex, but this is everythi
 </p>
 </details>
 
+## Importance of standards in the construction of networks
+
+Networking standards define the rules for data communications that are needed for [interoperability](https://www.techtarget.com/searchapparchitecture/definition/interoperability) of networking technologies and processes. Without a common ground on how to develop products/devices and which technologies to use, manufacturers would all develop their products differently and not use the same technologies, this would then naturally result in **incompatibility** among all other devices.
+
+<img src="/img/study-guides/networks/incompatibility.gif" alt="Incompatibility" width="300"/>
+
 ## Resources
 
 > Dimitriou, Kostas, and Markos Hatzitaskos. _Core Computer Science for the IB Diploma Program (International Baccaalaureate)_. Express Publishing, 2015.
@@ -123,6 +129,8 @@ The technical details on P2P networks are far more complex, but this is everythi
 
 > IBadmin. “Topic 3.” IB CompSci Hub, 2 July 2018, ib.compscihub.net/paper-1/topic-3.
 
-> “SAN, o Que é Uma Storage Area Network?” Controle, Controle, www.controle.net/faq/san-storage-area-network. Accessed 12 Apr. 2022.
+> “SAN, o Que é Uma Storage Area Network?” Controle, www.controle.net/faq/san-storage-area-network. Accessed 12 Apr. 2022.
 
 > PowerCert Animated Videos. “VLAN Explained.” YouTube, 31 May 2018, www.youtube.com/watch?v=jC6MJTh9fRE&t=206s.
+
+> “Network Standardization.” TutorialsPoint, www.tutorialspoint.com/Network-Standardization. Accessed 12 Apr. 2022.
