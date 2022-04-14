@@ -142,11 +142,11 @@ This curriculum point requires us to **evaluate** the different uses of a _VPN_.
 - Allows employees to work from anywhere remotely, a.k.a.: Telecommuting/Teleworking
 - Bypass content restricted for specific countries, a.k.a.: Geoblocks
 - Being anonymous on the Internet
-- **Pro tip 😎**: Many hotel booking websites have different prices for customer in different countries, so by using a VPN and changing your location to the country offering the cheapest prices you save some money! This tip is not meant to be used on the exam. 😅
+- **Pro tip 😎**: Many hotel booking websites have different prices for customers in different countries, so by using a VPN and changing your location to the country offering the cheapest prices you save some money! This tip is not meant to be used on the exam. 😅
 
 **Disadvantages of a VPN:**
 
-- Being anonymous of the Internet. This is also an advantage, but is being anonymous on the Internet really good? It can surely be used by Hackers and to commit Illegal trades.
+- Being anonymous of the Internet. This is also an advantage, but is being anonymous on the Internet really good? It can surely be used by hackers to commit cyber crimes and by others to pull of illegal trades.
 
 <img src="/img/study-guides/networks/awesome-hacker.gif" alt="Awesome hacker" width="500"/>
 
