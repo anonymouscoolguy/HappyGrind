@@ -121,6 +121,14 @@ Networking standards define the rules for data communications that are needed fo
 
 <img src="/img/study-guides/networks/incompatibility.gif" alt="Incompatibility" width="300"/>
 
+## Networks, communication and layers (To be done.)
+
+:::tip
+
+This curriculum point requires you to have an **awareness** of the seven-layer OSI-model, but an understanding of the **functioning** of each layer is **not required**.
+
+:::
+
 ## Resources
 
 > Dimitriou, Kostas, and Markos Hatzitaskos. _Core Computer Science for the IB Diploma Program (International Baccaalaureate)_. Express Publishing, 2015.
