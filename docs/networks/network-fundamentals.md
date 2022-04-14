@@ -129,6 +129,27 @@ This curriculum point requires you to have an **awareness** of the seven-layer O
 
 :::
 
+## Technologies required to provide a VPN (To be done.)
+
+_VPN_ stands for virtual private network and is an encrypted connection over the Internet from a device to a network. It ensures that sensitive data is safely transmitted and has many other uses, which will all be covered in the next topic. For now, we will discuss its two major technologies:
+
+## Use of a VPN
+
+This curriculum point requires us to **evaluate** the different uses of a _VPN_. So, let's take a closer look at its advantages and disadvantages:
+
+**Advantages of a VPN:**
+
+- Allows employees to work from anywhere remotely, a.k.a.: Telecommuting/Teleworking
+- Bypass content restricted for specific countries, a.k.a.: Geoblocks
+- Being anonymous on the Internet
+- **Pro tip 😎**: Many hotel booking websites have different prices for customer in different countries, so by using a VPN and changing your location to the country offering the cheapest prices you save some money! This tip is not meant to be used on the exam. 😅
+
+**Disadvantages of a VPN:**
+
+- Being anonymous of the Internet. This is also an advantage, but is being anonymous on the Internet really good? It can surely be used by Hackers and to commit Illegal trades.
+
+<img src="/img/study-guides/networks/awesome-hacker.gif" alt="Awesome hacker" width="500"/>
+
 ## Resources
 
 > Dimitriou, Kostas, and Markos Hatzitaskos. _Core Computer Science for the IB Diploma Program (International Baccaalaureate)_. Express Publishing, 2015.
@@ -142,3 +163,7 @@ This curriculum point requires you to have an **awareness** of the seven-layer O
 > PowerCert Animated Videos. “VLAN Explained.” YouTube, 31 May 2018, www.youtube.com/watch?v=jC6MJTh9fRE&t=206s.
 
 > “Network Standardization.” TutorialsPoint, www.tutorialspoint.com/Network-Standardization. Accessed 12 Apr. 2022.
+
+> NordVPN. “What Is a VPN.” NordVPN, 12 Apr. 2022, nordvpn.com/what-is-a-vpn.
+
+> Godbold, Craig. “3.1.4 – 3.1.5 – Identify the Technologies Required to Provide a VPN. – Craig Godbold .Com.” Craig Godbold, craiggodbold.com/3-1-4-identify-the-technologies-required-to-provide-a-vpn. Accessed 14 Apr. 2022.
