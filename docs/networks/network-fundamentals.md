@@ -146,7 +146,7 @@ This curriculum point requires us to **evaluate** the different uses of a _VPN_.
 
 **Disadvantages of a VPN:**
 
-- Being anonymous of the Internet. This is also an advantage, but is being anonymous on the Internet really good? It can surely be used by hackers to commit cyber crimes and by others to pull of illegal trades.
+- Being anonymous on the Internet. This is also an advantage, but is being anonymous on the Internet really good? It can surely be used by hackers to commit cyber crimes and by others to pull of illegal trades.
 
 <img src="/img/study-guides/networks/awesome-hacker.gif" alt="Awesome hacker" width="500"/>
 
