@@ -88,7 +88,7 @@ For example, let's imagine that we have a business and we utilize a network for 
 <details><summary>Virtual Private Network (VPN) 🕵</summary>
 <p>
 
-A VPN is similiar to a _LAN_ or _WLAN_, but it allows its users to log into the network **remotely**. To enter a LAN or WLAN network you need to physically be there (via wire or wireless), a VPN allows you be somewhere else and still enter the LAN as if you were physically present.
+A VPN is similar to a _LAN_ or _WLAN_, but it allows its users to log into the network **remotely**. To enter a LAN or WLAN network you need to physically be there (via wire or wireless), a VPN allows you be somewhere else and still enter the LAN as if you were physically present.
 
 For example, if your awesome business has a VPN network, your employees will be able to access your _LAN_ network, which is physically in the office, in their homes.
 
@@ -149,6 +149,10 @@ This curriculum point requires us to **evaluate** the different uses of a _VPN_.
 - Being anonymous on the Internet. This is also an advantage, but is being anonymous on the Internet really good? It can surely be used by hackers to commit cyber crimes and by others to pull of illegal trades.
 
 <img src="/img/study-guides/networks/awesome-hacker.gif" alt="Awesome hacker" width="500"/>
+
+## Explanation video and PowerPoint presentation (To be done.)
+
+<a href="https://github.com/anonymouscoolguy/HappyGrind/raw/master/static/files/networks/Network%20fundamentals.pptx"><button className="button button--secondary button--md">PowerPoint Presentation 👨🏻‍🏫</button></a>
 
 ## Resources
 
