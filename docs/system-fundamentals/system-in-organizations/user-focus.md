@@ -147,7 +147,7 @@ This is the type of training where the students are sitting in a classroom liste
     <iframe width="560" height="315" src="https://www.youtube.com/embed/I6sFzNovKic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<a href="https://www.google.com/"><button className="button button--secondary button--md">PowerPoint Presentation 👨🏻‍🏫</button></a>
+<a href="https://github.com/anonymouscoolguy/HappyGrind/raw/master/static/files/system-fundamentals/system-in-organizations/User%20focus.pptx"><button className="button button--secondary button--md">PowerPoint Presentation 👨🏻‍🏫</button></a>
 
 ## Resources
 

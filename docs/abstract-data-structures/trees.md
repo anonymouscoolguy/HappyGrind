@@ -82,6 +82,14 @@ Traversing a tree means visiting **every** node of the tree. We might, for examp
 </p>
 </details>
 
+## Explanation video and PowerPoint presentation
+
+<div className="iframe-container margin-bottom--md">
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=iwa5WiFRJ6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<a href="https://www.google.com/"><button className="button button--secondary button--md">PowerPoint Presentation 👨🏻‍🏫</button></a>
+
 ## Resources
 
 > Dimitriou, Kostas, and Markos Hatzitaskos. _Core Computer Science for the IB Diploma Program (International Baccaalaureate)_. Express Publishing, 2015.
