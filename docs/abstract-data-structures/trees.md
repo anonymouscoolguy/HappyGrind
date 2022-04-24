@@ -85,7 +85,7 @@ Traversing a tree means visiting **every** node of the tree. We might, for examp
 ## Explanation video and PowerPoint presentation
 
 <div className="iframe-container margin-bottom--md">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/=iwa5WiFRJ6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/iwa5WiFRJ6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <a href="https://github.com/anonymouscoolguy/HappyGrind/raw/master/static/files/abstract-data-structures/Trees.pptx"><button className="button button--secondary button--md">PowerPoint Presentation 👨🏻‍🏫</button></a>
