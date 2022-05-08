@@ -203,6 +203,14 @@ _User acceptance testing_ is conducted to check if the new system meets the end-
 </p>
 </details>
 
+## Explanation video and PowerPoint presentation
+
+<div className="iframe-container margin-bottom--md">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6oK1y7i34tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<a href="https://github.com/anonymouscoolguy/HappyGrind/raw/master/static/files/system-fundamentals/system-in-organizations/Planning%20and%20system%20installation.pptx"><button className="button button--secondary button--md">PowerPoint Presentation 👨🏻‍🏫</button></a>
+
 ## Resources
 
 > Dimitriou, Kostas, and Markos Hatzitaskos. _Core Computer Science for the IB Diploma Program (International Baccaalaureate)_. Express Publishing, 2015.
